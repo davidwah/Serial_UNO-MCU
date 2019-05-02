@@ -1,1 +1,1 @@
-# Serial_UNO-MCU
+# Serial Communication UNO with MCU
